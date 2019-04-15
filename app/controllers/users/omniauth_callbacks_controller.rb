@@ -22,12 +22,6 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
     provides_callback_for provider
   end
 
-  # GET|POST /users/auth/oauth-provider/callback
-  # def failure
-  #   # super
-  #   redirect_to root_path
-  # end
-
   protected
 
   # The path used when OmniAuth fails
