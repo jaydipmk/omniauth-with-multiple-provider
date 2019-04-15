@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .flashbox{height: 50px; text-align: left;}
+
+ .alert-success {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}
+
+.alert-info {
+    color: #E9EDEF;
+    background-color: rgba(52, 152, 219, .88);
+    border-color: rgba(52, 152, 219, .88);
+}
+
+.alert-warning {
+    color: #E9EDEF;
+    background-color: rgba(243, 156, 18, .88);
+    border-color: rgba(243, 156, 18, .88);
+}
+
+.alert-danger,
+.alert-error {
+    color: #E9EDEF;
+    background-color:#da2b2b;
+    border-color: #da2b2b;
+}
+
