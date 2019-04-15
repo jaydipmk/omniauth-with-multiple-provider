@@ -1,0 +1,1 @@
+# omniauth-with-multiple-provider
