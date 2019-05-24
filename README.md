@@ -15,7 +15,7 @@
 - Users can authenticate through facebook account. for that used [facebook omniauth gem](https://github.com/mkdynamic/omniauth-facebook)
 
 ## LinkedIn Omniauth
-- Users can authenticate through linkein account. for that used [linkein omniauth gem](https://github.com/decioferreira/omniauth-linkedin-oauth2)
+- Users can authenticate through linkedin account. for that used [linkedin omniauth gem](https://github.com/decioferreira/omniauth-linkedin-oauth2)
 
 
 >**Same as above we can also implement the sign in with github or any other social platform.**
